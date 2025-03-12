@@ -5,13 +5,21 @@ Soy un desarrollador Fullstack apasionado por crear soluciones web eficientes y 
 ## 💻 Tecnologías y Herramientas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=FFFFFF)
+![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=6CC24A)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=47A248)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=2496ED)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=FFFFFF)  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=007396)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=777BB4)  
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css&logoColor=38B2AC)  
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=F05032)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
 ## 📊 Estadísticas
 
