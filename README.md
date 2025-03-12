@@ -15,7 +15,7 @@ Soy un desarrollador Fullstack apasionado por crear soluciones web eficientes y 
 
 ## 📊 Estadísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GudinoJoaquin&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ---
 
