@@ -33,6 +33,7 @@ Passionate about building scalable and efficient web applications. I specialize 
   <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&logoColor=F24E1E" />
   <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-Solid%20Edge-black?style=flat-square&logo=solid-edge&logoColor=007ACC" />
 </p>
 
 ## 📊 GitHub Stats  
