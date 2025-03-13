@@ -19,6 +19,7 @@ Passionate about building scalable and efficient web applications. I specialize 
 ### 🚀 Frameworks & Libraries  
 <p align="left">
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react-native&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=6CC24A" />
